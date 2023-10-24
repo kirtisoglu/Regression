@@ -11,7 +11,6 @@ The assignments include theoretical (mathematical proof) and coding questions. E
 
 Any comments or corrections are welcome. I would appreciate it if you could email me at [akirtisoglu@hawk.iit.edu](mailto:akirtisoglu@hawk.iit.edu)
 
-
-Alaittin Kirtisoglu <br>
+[Alaittin Kirtisoglu](https://kirtisoglu.github.io/) <br>
 Ph.D. Student in Applied Math <br>
 Illinois Institute of Technology
