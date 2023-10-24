@@ -9,9 +9,11 @@ The assignments include theoretical (mathematical proof) and coding questions. E
 * A PDF of solutions to theoretical questions
 * Code files for coding questions.
 
+Textbook: Regression Analysis by Example, Samprit Chatterjee, Ali S. Hadi
+
 Any comments or corrections are welcome. I would appreciate it if you could email me at [akirtisoglu@hawk.iit.edu](mailto:akirtisoglu@hawk.iit.edu)
 
-
-Alaittin Kirtisoglu 
+[
+Alaittin Kirtisoglu](https://kirtisoglu.github.io/)
 Ph.D. Student in Applied Math
 Illinois Institute of Technology
