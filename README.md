@@ -6,7 +6,7 @@ The assignments include theoretical (mathematical proof) and coding questions. E
 
 * A PDF of questions
 * A dataset (if needed)
-* A PDF of solutions to theoretical questions
+* A solution PDF of theoretical questions
 * Code files for coding questions.
 
 Textbook: Regression Analysis by Example, Samprit Chatterjee, Ali S. Hadi
