@@ -12,7 +12,8 @@ The assignments include theoretical (mathematical proof) and coding questions. E
 Textbook: Regression Analysis by Example, Samprit Chatterjee, Ali S. Hadi
 
 Any comments or corrections are welcome. Email: [akirtisoglu@hawk.iit.edu](mailto:akirtisoglu@hawk.iit.edu)
-
-[Alaittin Kirtisoglu](https://kirtisoglu.github.io/) `<br>`
-Ph.D. Student in Applied Math `<br>`
-Illinois Institute of Technology
+<p>
+ [Alaittin Kirtisoglu](https://kirtisoglu.github.io/) <br>
+Ph.D. Student in Applied Math <br>
+Illinois Institute of Technology <
+</p>
